@@ -25,10 +25,6 @@
 // every other tick, lower the resolution to 2.
 #define ENCODER_RESOLUTION 2
 
-// The Leader key allows to flexibly assign macros to key sequences.
-#define LEADER_PER_KEY_TIMING
-#define LEADER_TIMEOUT 350
-
 #define TAPPING_FORCE_HOLD
 #define TAPPING_TERM 200
 #define AUTO_SHIFT_TIMEOUT 150
