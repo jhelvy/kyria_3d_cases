@@ -23,14 +23,15 @@
 // EC11K encoders have a different resolution than other EC11 encoders.
 // When using the default resolution of 4, if you notice your encoder skipping
 // every other tick, lower the resolution to 2.
-#define ENCODER_RESOLUTION 2
+#define ENCODER_RESOLUTION 4
 
 #define TAPPING_FORCE_HOLD
+#undef TAPPING_TERM
 #define TAPPING_TERM 200
 #define AUTO_SHIFT_TIMEOUT 150
 
 #define MOUSEKEY_DELAY 100
 #define MOUSEKEY_INTERVAL 16
-#define MOUSEKEY_MAX_SPEED 2
+#define MOUSEKEY_MAX_SPEED 5
 #define MOUSEKEY_WHEEL_MAX_SPEED 42
 #define MOUSEKEY_WHEEL_TIME_TO_MAX 15
