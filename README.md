@@ -1,3 +1,13 @@
-This is a temporary repo for my modification of the [3D Kyria case](https://github.com/splitkb/kyria/tree/master/3D%20Printed%20Case) designed by Stephen Onnen. I added external legs to support tenting, which should be compatible with both the [Ergodox tenting legs](https://ergodox-ez.com/products/tilt-tent-kit) as well as the 3D printable legs for [wizarddata](https://github.com/wizarddata)'s fantastic [Iris case](https://github.com/wizarddata/Iris-Case/tree/master/High%20Profile).
+# 3D cases for the Kyria Keyboard
 
-![](./images/kyria_tent_case.png)
+## 3D Printed Case
+
+The 3D printed case is compatible with revision 0.7 and up. There are two versions: one with and one without the Kyria logo on the inside of the case.
+
+![Kyria 3D Printed Case](./3D%20Printed%20Case/images/kyria_logo_case.png)
+
+## 3D Printed Tent Case
+
+The 3D printed tent case is a modification of the 3D case that includes support for print-able legs.
+
+![Kyria 3D Printed Tent Case](./3D%20Printed%20Tent%20Case/images/kyria_tent_case.png)
